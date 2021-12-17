@@ -1,5 +1,6 @@
 <?php
     require "./generate.php";
+    
     if(!isset($_POST['qrInfo'])){
         ?>
         <style type="text/css">

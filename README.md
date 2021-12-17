@@ -6,6 +6,6 @@ The purpose of the index.php file is to demonstrate the page in action. However,
 ```php
 require './generate.php';
 // generateQR(sizeX, sizeY, URL/info for QR)
-$QRCode = generateQR(500, 500, "google.com");
+$QRCode = generateQR(500, 500, "http://github.com/Greyson-Stalcup");
 
 ```

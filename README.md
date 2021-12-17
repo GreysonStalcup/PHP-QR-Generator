@@ -10,4 +10,4 @@ $QRCode = generateQR(500, 500, "http://github.com/GreysonStalcup");
 
 ```
 
-![qr code](https://github.com/https://github.com/GreysonStalcup/PHP-QR-Generator/blob/main/githubGreysonQR.png?raw=true)
+![qr code](https://github.com/GreysonStalcup/PHP-QR-Generator/blob/main/githubGreysonQR.png?raw=true)
